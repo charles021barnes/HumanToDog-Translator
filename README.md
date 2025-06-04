@@ -18,7 +18,7 @@ The "HumanToDog Translator" is a fun and interactive web application designed to
 ### Author
 **Name:** Your A/C Name  
 **Email:** your_email@example.com  
-**Website:** HumanToDog Translator  
+**Website:** [HumanToDog Translator](https://www.humantodog.com)
 **Bio:** An experienced software engineer and open-source enthusiast, Your A/C Name has mastered frontend and backend development with a passion for creating playful and engaging user experiences. Always ready to help and contribute to the community, Your A/C Name believes in learning by doing and sharing knowledge.
 
 ### Getting Started# HumanToDog-Translator
